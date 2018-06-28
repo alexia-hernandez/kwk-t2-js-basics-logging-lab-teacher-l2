@@ -6,7 +6,8 @@ console.log('sets a variable driver equal to bob');
 
 console.log(driver);
 
-console.log(driver, )
+console.log(driver, is the driver variable name);
+
      
       
   
